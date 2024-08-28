@@ -2,7 +2,7 @@
 ### Hello! I'm José Ranie ✌🏻
 
 I'm a computer engineering student at Impacta - 4/8 👨🏻‍💻 <br>
-I study HTML5 and CSS3 through Hashtag Treinamentos 💻 <br>
+I'm studying HTML5 and CSS3 through Hashtag Treinamentos 💻 <br>
 I'm from Taubaté - SP
 
 
