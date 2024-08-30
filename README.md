@@ -1,9 +1,19 @@
 
 ### Hello! I'm José Ranie ✌🏻
 
-I'm a computer engineering student at Impacta - 4/8 👨🏻‍💻 <br>
-I'm studying HTML5 and CSS3 through Hashtag Treinamentos 💻 <br>
-I'm from Taubaté - SP
+🌍 <b>Localização:</b> Taubaté, SP, Brasil <br>
+🎓 <b>Estudante de Engenharia da Computação</b> | 4º semestre na Faculdade Impacta de Tecnologia <br>
+💻 <b>Aprendendo:</b> HTML5 e CSS3 com Hashtag Treinamentos <br>
+🌐 <b>Inglês:</b> Básico (em desenvolvimento) <br>
+🚒 <b>Profissão:</b> Bombeiro Militar do Estado de São Paulo <br>
+👨‍💻 <b>Paixão por tecnologia:</b> Em busca constante de aprendizado e novas habilidades no universo da programação. <br> <br> <br>
+
+🌍 <b>Location:</b> Taubaté, SP, Brazil <br>
+🎓 <b>Computer Engineering Student</b> | 4th semester at Impacta Technology College <br>
+💻 <b>Learning:</b> HTML5 and CSS3 through Hashtag Treinamentos <br>
+🌐 <b>English:</b> Basic (in progress) <br>
+🚒 <b>Profession:</b> Firefighter in the São Paulo State Military Fire Department <br>
+👨‍💻 <b>Passionate about technology:</b> Constantly seeking to learn and develop new skills in the programming world. <br> <br> <br>
 
 
 ### Contacts
