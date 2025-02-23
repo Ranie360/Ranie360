@@ -3,7 +3,7 @@
 
 🌍 <b>Localização:</b> Taubaté, SP, Brasil <br>
 🎓 <b>Estudante de Engenharia da Computação</b> | 4º semestre na Faculdade Impacta de Tecnologia <br>
-💻 <b>Aprendendo:</b> HTML5 e CSS3 com Hashtag Treinamentos <br>
+💻 <b>Aprendendo:</b> React.js com Sujeito Programador <br>
 🌐 <b>Inglês:</b> Básico (em desenvolvimento) <br>
 🚒 <b>Profissão:</b> Bombeiro Militar do Estado de São Paulo <br>
 👨‍💻 <b>Paixão por tecnologia:</b> Em busca constante de aprendizado e novas habilidades no universo da programação. <br> <br> <br>
