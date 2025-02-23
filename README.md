@@ -10,7 +10,7 @@
 
 🌍 <b>Location:</b> Taubaté, SP, Brazil <br>
 🎓 <b>Computer Engineering Student</b> | 4th semester at Impacta Technology College <br>
-💻 <b>Learning:</b> HTML5 and CSS3 through Hashtag Treinamentos <br>
+💻 <b>Learning:</b> React.js through Sujeito Programador <br>
 🌐 <b>English:</b> Basic (in progress) <br>
 🚒 <b>Profession:</b> Firefighter in the São Paulo State Military Fire Department <br>
 👨‍💻 <b>Passionate about technology:</b> Constantly seeking to learn and develop new skills in the programming world. <br> <br> <br>
